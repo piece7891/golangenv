@@ -1,0 +1,2 @@
+# golangenv
+golang print env
